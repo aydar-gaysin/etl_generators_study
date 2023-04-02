@@ -27,3 +27,4 @@ To start jupyter with RISE slides:
 ```shell
 make jupyter
 ```
+Study project
